@@ -1,0 +1,31 @@
+topic_id,coherence,top_words,theme
+T1,0.4387,"wife, saying, didn, department, rubles, child, children, vision, called, asked, started, help, diagnosis, come, old",Ophthalmology & pediatric diagnosis
+T2,0.2527,"money, treatment, child, help, pleasant, pain, reception, rubles, doctors, right, say, long, problem, finger, blood",Cost & payment
+T3,0.2731,"tooth, pain, child, teeth, appointment, thank, people, treatment, asked, end, work, ultrasound, afraid, didn, queue",Dental treatment & waiting
+T4,0.2393,"tooth, money, took, doctors, wonderful, people, teeth, examination, crown, ray, young, pain, contract, rubles, pay",Dental prosthetics & cost
+T5,0.2027,"attitude, tooth, patients, ultrasound, pregnant, work, doctors, procedure, thank, removal, attentive, took, weeks, observed, office",Antenatal ultrasound monitoring
+T6,0.1989,"doctors, gratitude, money, insurance, express, treatment, professional, person, father, good, took, work, does, help, attentive",Insurance & professionalism
+T7,0.32,"department, staff, thank, express, gratitude, head, doctors, neurologist, professionalism, thanks, operation, friendly, surgery, attending, good",Staff professionalism (surgery/neurology)
+T8,0.1888,"thank, work, people, staff, money, doctors, thanks, registry, wonderful, child, month, specialist, teeth, register, impossible",Registration difficulty
+T9,0.2246,"department, years, good, treated, pain, possible, doctors, clinics, year, home, appointment, free, queues, rubles, work",Waiting times & queues
+T10,0.2277,"department, work, years, doctors, thank, turned, diagnosis, operation, gynecology, ago, later, help, result, specialists, home",Gynecology & diagnosis
+T11,0.1695,"doctors, surgery, does, operation, thank, pain, sent, people, gave, diagnosis, write, birth, children, good, bad",Surgery & operations
+T12,0.2177,"child, called, doctors, birth, ask, questions, thank, reception, money, appointment, come, paid, days, phone, months",Appointment booking (phone/reception)
+T13,0.199,"thank, doctors, treatment, people, child, prescribed, good, mother, department, examination, lot, diagnosis, bad, years, staff",Diagnosis & prescribed treatment
+T14,0.1911,"doctors, thank, treatment, examination, work, turned, visit, gynecologist, irina, good, site, tell, left, attentive, called",Gynecology consultation
+T15,0.3773,"treatment, sent, called, come, medication, son, patients, left, end, department, city, phone, skin, removed, turned",Dermatology & medication
+T16,0.1767,"good, department, office, attitude, thank, treatment, grateful, half, examination, doctors, reception, work, hour, liked, patients",Staff attitude & waiting
+T17,0.2196,"ultrasound, thanks, doctors, help, elena, reception, say, blood, does, weeks, turned, staff, general, people, second",Ultrasound & blood tests
+T18,0.3901,"thank, department, sensitive, attitude, staff, nurses, attentive, gratitude, birth, doctors, express, wonderful, elena, professional, head",Nursing staff care
+T19,0.1979,"treatment, years, doctors, child, good, daughter, ago, life, months, happy, grateful, department, work, long, rubles",Gratitude (long-term care)
+T20,0.2333,"specialists, thank, attitude, work, services, department, ultrasound, equipment, does, children, paid, good, patients, huge, quality",Equipment & service quality
+T21,0.2908,"birth, gave, thank, staff, operation, child, moscow, doctors, father, huge, good, professionalism, department, years, condition",Childbirth care & professionalism
+T22,0.2666,"birth, operation, ward, maternity, gave, took, doctors, don, money, started, wife, anesthesia, decided, long, free",Maternity ward & anesthesia
+T23,0.2226,"treatment, department, thank, operation, say, treated, child, patients, doctors, days, bed, pregnancy, money, immediately, thousand",Inpatient treatment & cost
+T24,0.3743,"teeth, dentist, come, good, doctors, child, tooth, turned, work, people, decided, way, pregnancy, free, say",Dental care
+T25,0.1647,"child, pharmacy, department, thank, head, general, doctors, treatment, ward, staff, good, gave, work, birth, prices",Pharmacy & prices
+T26,0.3719,"thank, operation, staff, department, good, kind, wonderful, express, gratitude, attentive, child, health, professionalism, attitude, immediately",Staff gratitude & professionalism
+T27,0.3054,"thanks, staff, son, card, does, work, hours, year, pay, doctors, department, referral, desk, registration, february",Registration & referrals (front desk)
+T28,0.1913,"treatment, didn, doctors, ivanovna, birth, problems, child, lyudmila, minutes, tests, tell, results, prescribed, took, gave",Test results & prescriptions
+T29,0.242,"birth, gave, say, doctors, department, asked, children, blood, consultation, didn, work, health, thank, desk, tried",Antenatal consultation
+T30,0.3146,"good, office, gynecologist, staff, queue, check, service, week, does, rude, years, registry, examination, prices, thank",Reception rudeness & queues

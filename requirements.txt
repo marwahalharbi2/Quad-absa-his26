@@ -1,0 +1,28 @@
+# Paper 6 pipeline dependencies (Anaconda base env, Python 3.11, CPU-only).
+# The base env already provides: gensim, nltk, scikit-learn, pandas, numpy.
+
+# --- Translation / models ---
+# torch >= 2.6 is REQUIRED: transformers refuses to load M2M-100's .bin weights
+# on older torch (CVE-2025-32434). Install the CPU build:
+#   pip install "torch>=2.6" --index-url https://download.pytorch.org/whl/cpu
+torch>=2.6
+transformers>=4.30,<5
+datasets>=2.14            # loaded via hf_hub_download (script loaders dropped in 3.0+)
+sentencepiece>=0.1.99
+sacremoses>=0.0.53
+huggingface-hub>=0.16
+
+# --- Translation QA ---
+bert-score>=0.3.13
+
+# --- LLM translation baseline (Llama 2 / Mistral Nemo, GGUF on CPU) ---
+# No C++ compiler on the target machine -> install the prebuilt CPU wheel, and
+# pin 0.2.90 (the newer 0.3.x wheel needs AVX-512, which this CPU lacks):
+#   pip install "llama-cpp-python==0.2.90" \
+#     --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+llama-cpp-python==0.2.90
+
+# --- Utilities ---
+psutil>=5.9
+py-cpuinfo>=9.0
+sentence-transformers

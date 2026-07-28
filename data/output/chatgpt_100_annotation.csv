@@ -1,0 +1,602 @@
+review_id,aspect_term,aspect_category,opinion_term,sentiment,notes
+r000105,Chibrikov,Staff & Service,will explain everything,positive,
+r000105,registration,Operational Experience,have problems,negative,
+r002343,Borodulin Lydia Ivanovna,Staff & Service,thank,positive,
+r002343,advised to send him to a forest school,Clinical & Treatment,advised,positive,
+r002343,massage,Specialised Services,given a massage,positive,
+r002343,psychologist,Staff & Service,works with him,positive,
+r002761,Syrina,Staff & Service,no medical education,negative,
+r002761,Syrina,Staff & Service,only needs money,negative,
+r002761,reception costs,Financial & Administrative,does not understand anything,negative,
+r002761,health insurance number,Financial & Administrative,denied baby food,negative,
+r003388,Sergeyecheva,Staff & Service,wonderful,positive,
+r003388,Sergeyecheva,Staff & Service,responsive,positive,
+r003388,Sergeyecheva,Staff & Service,understanding,positive,
+r003388,doctors,Staff & Service,love the children with all their heart,positive,
+r003388,Drozdova,Staff & Service,terrible,negative,
+r003388,Ipatov,Staff & Service,terrible,negative,
+r003388,serious symptoms,Clinical & Treatment,misses serious symptoms,negative,
+r004381,Leonteva Marina Valentinovna,Staff & Service,gratitude,positive,
+r004381,Kushareva Natalia Leonidovna,Staff & Service,gratitude,positive,
+r004381,Leonteva Marina Valentinovna,Staff & Service,excellent attitude to children,positive,
+r004381,Kushareva Natalia Leonidovna,Staff & Service,excellent attitude to children,positive,
+r004447,ECG nurses,Staff & Service,THANK YOU very much,positive,
+r004447,ECG nurses,Staff & Service,kindness and understanding,positive,
+r004447,find an approach to any child,Staff & Service,find an approach to any child,positive,
+r005027,make an appointment with an orthopedic doctor,Operational Experience,can not make an appointment,negative,
+r005027,no coupons,Operational Experience,no coupons all the time,negative,
+r005027,clinic staff,Staff & Service,immediately rude,negative,
+r005167,registry officer,Staff & Service,interrogation in rough form,negative,
+r005167,day of admission without a record,Operational Experience,without a record,negative,
+r006682,Bakalarova Inga Mikhailovna,Staff & Service,we will return back,positive,
+r006682,head Shishova,Staff & Service,no one likes us there more than the head,positive,
+r007984,Doctor Loschilova N. N.,Staff & Service,worse nowhere,negative,
+r007984,Doctor Loschilova N. N.,Staff & Service,doubt the professional suitability,negative,
+r007984,diagnoses,Clinical & Treatment,erroneous diagnoses,negative,
+r008117,Tagiyev Mamed Tagievich,Staff & Service,great gratitude,positive,
+r008117,Tagiyev Mamed Tagievich,Staff & Service,human gratitude,positive,
+r008117,Tagiyev Mamed Tagievich,Staff & Service,great surgeon-oncologist,positive,
+r008117,Tagiyev Mamed Tagievich,Staff & Service,highest professional,positive,
+r008117,Tagiyev Mamed Tagievich,Staff & Service,amazing kindness,positive,
+r008117,Tagiyev Mamed Tagievich,Staff & Service,MAN WITH A BIG BUKVA,positive,Literal translated expression meaning an exceptional person.
+r008117,operation,Specialised Services,IMPLICIT,positive,Positive evaluation is implied through gratitude to the surgeon who performed it.
+r008147,examined and treated,Financial & Administrative,less than ten thousand,positive,
+r008147,attitude to patients,Staff & Service,very good,positive,
+r008582,pharmacy,Other,wonderful,positive,
+r008582,everything you need,Infrastructure & Resources,find,positive,Refers to the pharmacy's broad product availability.
+r008582,price,Financial & Administrative,affordable,positive,
+r008582,pharmacy,Other,My whole family only buys there,positive,Continued family use indicates strong satisfaction and loyalty.
+r008582,employees,Staff & Service,separate thanks,positive,
+r009473,medicine,Infrastructure & Resources,found,positive,Positive evaluation of product availability.
+r009473,candles,Infrastructure & Resources,only 36.6 found,positive,
+r009473,simple syrups,Clinical & Treatment,impossible,negative,Indicates the syrups failed to reduce the temperature.
+r009473,temperature,Clinical & Treatment,was knocked down,positive,
+r009473,temperature,Clinical & Treatment,it's wonderful,positive,
+r009473,range,Infrastructure & Resources,thank you very much,positive,
+r009603,prices,Financial & Administrative,pleasant,positive,
+r009603,queues,Operational Experience,There are never queues,positive,
+r009603,pharmacy,Infrastructure & Resources,clean,positive,
+r009603,pharmacy,Infrastructure & Resources,always cleaned,positive,
+r009603,repairs,Infrastructure & Resources,I like,positive,
+r010166,call,Operational Experience,could not call,negative,
+r010166,call,Operational Experience,impossible to call,negative,
+r010166,site,Financial & Administrative,says that the pharmacy works from 8.00 to 20.00 on Saturday without a break,negative,Negative because the stated opening hours conflict with the inability to contact the pharmacy.
+r011922,team,Staff & Service,friendly and professional,positive,
+r011922,bringing back a smile,Clinical & Treatment,bringing back a smile,positive,
+r012251,doctor,Staff & Service,just a professional,positive,
+r012251,equipment,Infrastructure & Resources,at the highest level,positive,
+r012251,treatment,Clinical & Treatment,no unpleasant sensations,positive,
+r012251,treatment plan,Clinical & Treatment,good,positive,
+r012449,removed a few problem teeth,Clinical & Treatment,very professionally,positive,
+r012449,4 implants,Specialised Services,feel like native teeth,positive,
+r012449,Tereshchuk Sergey Vasilyevich,Staff & Service,high professionalism,positive,
+r012449,Olesov Andrey Vladimirovich,Staff & Service,high professionalism,positive,
+r012449,Nikolaenko Elena Vitalyevna,Staff & Service,high professionalism,positive,
+r014005,administrator Catherine,Staff & Service,wonderful,positive,
+r014005,administrator Catherine,Staff & Service,understands immediately,positive,
+r014005,Albina,Staff & Service,Special thanks,positive,
+r014005,healed one tooth of caries,Clinical & Treatment,healed,positive,
+r015292,Oksana Artlevel Zhuravskaya,Staff & Service,thank you and express gratitude,positive,
+r015292,correcting the bite,Clinical & Treatment,correcting the bite,positive,
+r015292,caps invisiline,Specialised Services,very happy,positive,
+r017529,"clinic ""Alternative",Staff & Service,picking up such good specialists,positive,
+r017529,Aladisheva Alexei Vladimirovich,Staff & Service,know their work very well,positive,
+r017529,Anna Sergeevna,Staff & Service,know their work very well,positive,
+r017529,result,Clinical & Treatment,Thank you very much for this result,positive,
+r019126,removal of nerves,Clinical & Treatment,"first makes a tooth, then a picture",negative,
+r019126,treatment,Financial & Administrative,thirst for profit,negative,
+r019126,tooth,Clinical & Treatment,fell apart after 2 months,negative,
+r019126,young dentist,Staff & Service,in a hurry,negative,
+r019126,young dentist,Staff & Service,does not know much or is lazy,negative,
+r019286,staff of the clinic,Staff & Service,Many thanks,positive,
+r019286,attending dentists,Staff & Service,very good specialists,positive,
+r019286,Sychugov Alexei Vyacheslavovich,Staff & Service,heartfelt gratitude,positive,
+r019286,atmosphere in the clinic,Infrastructure & Resources,very friendly,positive,
+r019372,therapist's treatment,Staff & Service,very surprised,neutral,The phrase is ambiguous and does not clearly indicate positive or negative sentiment by itself.
+r019372,panic attacks,Clinical & Treatment,IMPLICIT,negative,
+r019372,constant weakness,Clinical & Treatment,IMPLICIT,negative,
+r019372,sleep on the go,Clinical & Treatment,IMPLICIT,negative,
+r019372,impaired coordination,Clinical & Treatment,IMPLICIT,negative,
+r019372,dizziness,Clinical & Treatment,IMPLICIT,negative,
+r019372,fear of leaving the house,Clinical & Treatment,IMPLICIT,negative,
+r019372,Treatment,Clinical & Treatment,did not remove the symptoms until the end,negative,
+r019372,Treatment,Clinical & Treatment,helped to live with them,positive,
+r019372,frequency and intensity,Clinical & Treatment,decreased,positive,
+r019372,Medications,Clinical & Treatment,were selected,positive,
+r019372,Medications,Clinical & Treatment,can be drunk with courses in case of exacerbation,positive,
+r019372,IMPLICIT,Clinical & Treatment,Very well,positive,Overall positive evaluation of the treatment plan and outcome.
+r019437,all the staff,Staff & Service,Thank you very much,positive,"The opening wording appears mistranslated, but gratitude is directed toward staff involved in treatment."
+r019437,treatment of my child,Clinical & Treatment,Thank you very much for your health,positive,
+r019437,birth,Specialised Services,very difficult,negative,
+r019437,diagnosis of Parez Erba,Clinical & Treatment,IMPLICIT,negative,Serious diagnosis stated without an explicit opinion word.
+r019437,staff of the hospital,Staff & Service,carelessness,negative,
+r019437,during the birth,Specialised Services,everything that I experienced,negative,Negative experience is implied by the surrounding criticism.
+r019437,after the birth,Staff & Service,carelessness of the staff,negative,
+r019678,operation,Specialised Services,did not think about it,negative,"Meaning is unclear due to translation, but indicates dissatisfaction with surgical consideration."
+r019678,discharged me,Operational Experience,the next day,negative,Negative in context because the reviewer questions the decision.
+r019678,everything was fine,Clinical & Treatment,IMPLICIT,neutral,Reported clinical conclusion rather than the reviewer's clear evaluation.
+r019678,cancer,Clinical & Treatment,was never found,neutral,Factual diagnostic statement.
+r019678,tumor,Clinical & Treatment,increase,negative,
+r019678,answer,Clinical & Treatment,not cancer,negative,Negative in context because repeated tumour growth appears to have been dismissed.
+r019819,Pilch Mikhail Danilovich,Staff & Service,sincerely thank,positive,
+r019819,Pilch Mikhail Danilovich,Staff & Service,surgeon of the highest category,positive,
+r019819,operation performed for me,Specialised Services,sincerely thank,positive,
+r019819,Pilch Mikhail Danilovich,Staff & Service,professionalism,positive,
+r020072,doctor,Staff & Service,rude,negative,
+r020072,nurse,Staff & Service,rude,negative,
+r020072,hospitalization,Operational Experience,refused hospitalization,negative,
+r020233,doctors,Operational Experience,do not come in time,negative,
+r020233,contract,Financial & Administrative,contract says one thing,negative,
+r020233,vaccinations,Financial & Administrative,need to pay for every other 1000 rubles,negative,
+r020233,services,Operational Experience,services are not performed,negative,
+r020233,additional services,Financial & Administrative,plus 10000 had to pay,negative,
+r020540,entire department of endoscopy,Staff & Service,I thank,positive,
+r020540,Matrosov M.V.,Staff & Service,I thank,positive,
+r020540,Aralova I.S.,Staff & Service,I thank,positive,
+r020540,assistant sisters,Staff & Service,I thank,positive,
+r020540,entire department of endoscopy,Staff & Service,professionalism,positive,
+r020540,entire department of endoscopy,Staff & Service,patience,positive,
+r020540,They,Staff & Service,also psychologists,positive,Indicates emotional support in addition to clinical work.
+r020810,lack of repair,Infrastructure & Resources,lack of repair,negative,
+r020810,lack of a sufficient number of shops,Infrastructure & Resources,lack of a sufficient number,negative,
+r021478,Yuri Sergeyevich,Staff & Service,sincere gratitude,positive,
+r021478,Yuri Sergeyevich,Staff & Service,cordiality and kind attitude,positive,
+r021478,Yuri Sergeyevich,Staff & Service,competent and polite,positive,
+r021478,Yuri Sergeyevich,Staff & Service,"kindness, dedication, hard work, care, discipline, attention",positive,
+r021716,doctors and sisters,Staff & Service,Thanks,negative,Sarcastic thanks; intended sentiment is negative.
+r021716,rubbed me in the powder,Clinical & Treatment,IMPLICIT,negative,"Meaning is unclear due to translation, but presented as harmful treatment."
+r021716,sulphazine therapy,Clinical & Treatment,Thanks,negative,Sarcastic criticism of the treatment.
+r021716,electric shock,Clinical & Treatment,Thanks,negative,Sarcastic criticism of the treatment.
+r021716,blue under the eyes,Clinical & Treatment,IMPLICIT,negative,Reported adverse effect.
+r021716,tremor in both hands,Clinical & Treatment,IMPLICIT,negative,Reported adverse effect.
+r021716,fear,Clinical & Treatment,put fear in me,negative,
+r021716,completely healthy,Clinical & Treatment,IMPLICIT,negative,Likely sarcastic because persistent symptoms follow immediately.
+r021716,hands,Clinical & Treatment,tremble,negative,
+r021716,IMPLICIT,Clinical & Treatment,"the cat, like a bus blue, crawls between the lines",negative,Possibly describes ongoing perceptual or cognitive symptoms; wording is unclear.
+r022432,call the registry,Operational Experience,not possible to call,negative,
+r022432,record for a week,Operational Experience,very uncomfortable,negative,
+r022432,electronic recording,Operational Experience,not allow electronic recording,negative,
+r022503,Yurina Svetlana Vitalevna,Staff & Service,express my gratitude,positive,
+r022503,Epova,Staff & Service,express my gratitude,positive,
+r022503,Belyaev,Staff & Service,express my gratitude,positive,
+r022503,diagnosis,Clinical & Treatment,correct diagnosis,positive,
+r022503,treatment,Clinical & Treatment,solved all the problems,positive,
+r024441,management,Staff & Service,created friendly environment,positive,
+r024441,Consultants,Staff & Service,listened carefully,positive,
+r024441,Consultants,Staff & Service,offered exactly those points,positive,
+r024665,Sergei,Staff & Service,Low bow,positive,
+r024665,Sergei,Staff & Service,there are no such words to describe gratitude,positive,
+r024665,help and treatment,Clinical & Treatment,puts people on their feet,positive,
+r024665,Sergei,Staff & Service,inspires new achievements,positive,
+r024809,prices,Financial & Administrative,cheap,positive,
+r024809,doctor,Staff & Service,make money,negative,Reviewer alleges that the doctor profits from patients' problems.
+r024809,price of drugs,Financial & Administrative,make money,negative,
+r024809,marketing,Financial & Administrative,main course,negative,Critical description of the clinic's marketing strategy.
+r024809,free diagnosis,Specialised Services,IMPLICIT,negative,Presented sarcastically as part of a sales strategy rather than genuine free care.
+r024809,insoles,Financial & Administrative,pick you up,negative,Negative in context because the reviewer portrays this as product selling.
+r024809,correction,Clinical & Treatment,IMPLICIT,negative,Presented as part of an allegedly sales-driven treatment offer.
+r024809,product,Financial & Administrative,not subject to return and exchange,negative,
+r024809,non-returnable goods,Financial & Administrative,IMPLICIT,negative,Reviewer warns that the orthopaedic product cannot be returned or exchanged.
+r025307,delicate problem,Clinical & Treatment,tormented,negative,
+r025307,folk remedies,Clinical & Treatment,to no avail,negative,
+r025307,IMPLICIT,Clinical & Treatment,Now I will not be ashamed to be naked on the beach,positive,"Implies that the condition improved, although the treatment or provider is not explicitly named."
+r027227,surgery for rectal cancer,Specialised Services,IMPLICIT,neutral,The surgery is introduced factually; its outcome is evaluated separately.
+r027227,Many doctors,Staff & Service,refused to undertake,negative,
+r027227,European,Staff & Service,met with understanding and participation,positive,
+r027227,operation,Specialised Services,went very well,positive,
+r027227,chemotherapy,Specialised Services,IMPLICIT,neutral,The treatment is mentioned factually.
+r027227,negative symptoms,Clinical & Treatment,stopped immediately,positive,
+r027537,doctors,Staff & Service,thank,positive,
+r027537,doctors,Staff & Service,professionalism,positive,
+r027537,brought out of such a state,Clinical & Treatment,IMPLICIT,positive,Refers to substantial improvement from a severe condition.
+r027537,second trip,Financial & Administrative,made a discount,positive,
+r027537,feeling,Clinical & Treatment,has improved in a couple of days,positive,
+r027537,IMPLICIT,Other,I recommend,positive,Overall recommendation of the clinic.
+r028265,gynecologist Shakharatova I. A.,Staff & Service,did not have a medical certificate,negative,Meaning may reflect missing or improperly prepared medical documentation.
+r028265,recommendations,Financial & Administrative,wrote ... on the leaflet,negative,Concern relates to documentation and administrative practice.
+r028265,forms of medical institutions,Financial & Administrative,IMPLICIT,negative,Reviewer criticises the absence of official forms.
+r028265,screen,Infrastructure & Resources,it would be nice to put at least,negative,Implies inadequate privacy in the examination room.
+r028265,gynecological examination,Specialised Services,IMPLICIT,negative,Negative evaluation arises from insufficient privacy during the examination.
+r030769,Dr. Gasimov Rustam Movsumovich,Staff & Service,gratitude,positive,
+r030769,Dr. Gasimov Rustam Movsumovich,Staff & Service,professionalism,positive,
+r030769,Dr. Gasimov Rustam Movsumovich,Staff & Service,attentive attitude,positive,
+r030769,frontitis,Clinical & Treatment,very painfully leaking,negative,
+r030769,doctor,Staff & Service,took into account all the factors,positive,
+r030769,scheme,Clinical & Treatment,very careful,positive,
+r030769,scheme,Clinical & Treatment,effective,positive,
+r030769,condition,Clinical & Treatment,improved again very quickly,positive,
+r030769,treatment,Clinical & Treatment,thanks to this treatment,positive,
+r030769,doctor,Staff & Service,liked very much,positive,"The final sentence is incomplete, but clearly expresses a positive evaluation of the consultation."
+r033433,get to the doctor,Operational Experience,through the insurance company,negative,Indicates difficulty accessing a doctor directly.
+r033433,register urgently,Operational Experience,It is impossible,negative,
+r033433,Some doctors,Staff & Service,as if I brought cow dung in their bag and offered to smell,negative,Negative description of doctors' facial expressions and attitude.
+r033433,people in the registry,Staff & Service,think that they are better and smarter than the patient,negative,
+r033433,people in the registry,Staff & Service,treat us quickly,negative,Interpreted as dismissive or rushed treatment in context.
+r035116,Irina Anatolyenva,Staff & Service,trust ... more than any other doctor,positive,
+r035116,pregnancy,Specialised Services,IMPLICIT,positive,Positive evaluation is implied by continued trust in the doctor despite a difficult pregnancy.
+r035116,head injury,Clinical & Treatment,treated,positive,
+r035116,cough,Clinical & Treatment,helped me cure,positive,
+r035116,ordinary doctors,Staff & Service,could not help anything,negative,
+r035116,antibiotics,Clinical & Treatment,made it worse for me,negative,
+r035713,Vladimir Aleksandrovich Malashenko,Staff & Service,good,positive,
+r035713,Vladimir Aleksandrovich Malashenko,Staff & Service,attentive,positive,
+r035713,Vladimir Aleksandrovich Malashenko,Staff & Service,thank you very much,positive,
+r035713,treatment of seasonal allergies,Clinical & Treatment,thank you very much,positive,
+r035713,seasonal allergies,Clinical & Treatment,Almost suffocated,negative,Describes the severity of the condition before treatment.
+r035713,seasonal allergies,Clinical & Treatment,very bad,negative,
+r035713,pills,Clinical & Treatment,did not help,negative,
+r035713,private clinic,Other,I liked everything,positive,
+r035713,team,Staff & Service,friendly,positive,
+r037542,tests,Specialised Services,did quickly,positive,
+r037542,tests,Specialised Services,very pleased,positive,
+r037542,nurse,Staff & Service,Thank you,positive,
+r037542,took blood,Specialised Services,quickly,positive,
+r037542,took blood,Specialised Services,painlessly,positive,
+r037542,took blood,Clinical & Treatment,not even a trace,positive,Refers to the absence of bruising after the procedure.
+r037542,Ubaydatova,Staff & Service,a good doctor,positive,
+r037542,queue,Operational Experience,had to sit 40 minutes,negative,
+r037542,many come without a record,Operational Experience,slow down the queue,negative,
+r037542,prices,Financial & Administrative,average,neutral,
+r038005,Doctor Nabatova N.I.,Staff & Service,does not even have the appropriate education,negative,
+r038005,Doctor Nabatova N.I.,Staff & Service,not to mention ultrasound certificates,negative,
+r038005,screening,Specialised Services,only five minutes,negative,
+r038005,Doctor Nabatova N.I.,Staff & Service,read all the indicators from a cheat sheet,negative,
+r038005,results,Specialised Services,did not write anything else,negative,
+r038005,nasal bone,Specialised Services,not even,negative,Important measurement was omitted.
+r038005,nurse,Staff & Service,"behaves like a ""barrel",negative,
+r038005,nurse,Staff & Service,rude,negative,
+r038005,staff,Staff & Service,angry,negative,
+r038005,be weighed,Staff & Service,asked to say my exact weight myself,negative,
+r038005,ultrasound before 12 weeks,Financial & Administrative,costs 800 rubles,neutral,Quoted listed price without evaluation by itself.
+r038005,charged me 1000 rubles,Financial & Administrative,although I was 11 weeks pregnant,negative,Reviewer states she was overcharged.
+r038005,chief doctor,Staff & Service,clumsy lies,negative,
+r038005,chief doctor,Staff & Service,"said one thing, then another, then a third",negative,
+r038005,chief doctor,Staff & Service,continued to lie,negative,
+r038005,measure the bone,Specialised Services,they do not measure,negative,
+r038005,expanded ultrasound,Specialised Services,they do not do it there,negative,
+r038005,what kind of ultrasound I needed,Operational Experience,I needed to ask,negative,Reviewer says staff failed to explain or offer options.
+r038005,no one,Staff & Service,offered a choice,negative,
+r038005,equipment,Infrastructure & Resources,no more advanced or less powerful equipment,neutral,States that only one equipment or ultrasound option exists.
+r038005,chief doctor,Staff & Service,started shouting at me,negative,
+r038005,chief doctor,Staff & Service,accused me of behaving badly,negative,
+r038005,chief doctor,Staff & Service,did not hear the nurse's rudeness,negative,
+r038005,recording,Infrastructure & Resources,there is no recording,negative,
+r038005,video in the corridors,Infrastructure & Resources,does not always work,negative,
+r038005,IMPLICIT,Other,I intend to go to court,negative,Signals severe dissatisfaction with the overall experience.
+r038696,favorite clinic,Other,favorite,positive,
+r038696,Pilates,Specialised Services,IMPLICIT,positive,Continued attendance for five years implies satisfaction.
+r038696,gynecologist Tatyana Alekseyevna Firsova,Staff & Service,sincerely recommend her,positive,
+r038696,women's problems,Clinical & Treatment,help get out of,positive,
+r038696,lost weight,Clinical & Treatment,IMPLICIT,positive,Positive treatment outcome.
+r038825,surgeon,Staff & Service,it is better not to tell,negative,Meaning is unclear due to translation; retained literal evaluative wording.
+r038825,doctor,Staff & Service,does not know about the main doctors,negative,"Meaning is unclear, but expresses criticism of competence or awareness."
+r038825,Michitalmed,Other,nothing is better in Moscow,positive,Overall positive evaluation of the clinic.
+r038825,good knowledgeable doctors,Staff & Service,good knowledgeable,positive,
+r038825,those who do not know exactly how,Staff & Service,do not know exactly how,negative,
+r040646,bioimpedance analysis,Specialised Services,IMPLICIT,neutral,The service is initially mentioned factually.
+r040646,clinic,Other,really liked it,positive,Overall evaluation of the clinic.
+r040646,analysis,Specialised Services,was conducted,positive,Positive in context because the reviewer praises the complete service.
+r040646,deciphered everything,Staff & Service,correctly,positive,
+r040646,explained what to do and how to deal with excess weight,Staff & Service,correctly,positive,
+r040646,procedures,Specialised Services,there is a result,positive,
+r040868,everything was fine,Other,fine,positive,Overall initial evaluation of the service.
+r040868,staff,Staff & Service,clear problems,negative,
+r040868,document,Operational Experience,a week after the appointed time,negative,Indicates delayed completion.
+r040868,call,Staff & Service,nor a call nor a letter,negative,Refers to lack of communication from staff.
+r040868,letter,Staff & Service,nor a call nor a letter,negative,Refers to lack of communication from staff.
+r040868,schedule,Operational Experience,decided to change the schedule,negative,
+r040868,work until 18:00,Operational Experience,IMPLICIT,negative,Reviewer indicates difficulty accessing the service because of unclear or unsuitable hours.
+r041435,copy of the license,Financial & Administrative,sent us far away,negative,
+r041435,copy,Financial & Administrative,do not give,negative,
+r041435,site,Infrastructure & Resources,there is no one there either,negative,Refers to the licence not being available on the website.
+r041435,license,Financial & Administrative,Do they have it at all?,negative,
+r041435,license,Financial & Administrative,phony,negative,
+r042278,staff,Staff & Service,competent,positive,
+r042278,cleaning,Specialised Services,IMPLICIT,neutral,Service is mentioned without a separate explicit evaluation.
+r042278,Botox,Specialised Services,there is an effect,positive,
+r042278,clinic on Tsvetnoy Boulevard,Financial & Administrative,only money is taken,negative,
+r042278,effect,Clinical & Treatment,almost no effect,negative,Refers to treatment received at the other clinic.
+r042278,all,Staff & Service,Thank you,positive,
+r042278,here,Other,I will only go here,positive,Expresses strong overall preference and intention to return.
+r042309,girls on the phone,Staff & Service,very pleasant,positive,
+r042309,girls on the phone,Staff & Service,operational,positive,
+r042309,girls ... at the reception,Staff & Service,very pleasant,positive,
+r042309,girls ... at the reception,Staff & Service,operational,positive,
+r042309,queues,Operational Experience,there are no queues anywhere,positive,
+r042309,first free window,Operational Experience,in a week,negative,Indicates limited appointment availability.
+r043438,doctor,Staff & Service,controversy with the patient,negative,Subjective impression based on reviews.
+r043438,doctors,Staff & Service,not very professional,negative,Subjective impression based on reviews.
+r043742,appointment of antibiotics for literally every sneeze,Clinical & Treatment,appointment of antibiotics for literally every sneeze,negative,
+r043742,each appointment,Operational Experience,especially pleased,positive,
+r044352,procedures on the Quantum device,Specialised Services,really liked,positive,
+r044352,effect,Specialised Services,amazing,positive,
+r044352,skin,Clinical & Treatment,smooth,positive,
+r044352,skin,Clinical & Treatment,elastic,positive,
+r044352,skin,Clinical & Treatment,without spots and vessels,positive,
+r044352,Tereshchuk Elena Alexandrovna,Staff & Service,recommendation,positive,
+r044352,contour plastic surgery,Specialised Services,will definitely make,positive,Expresses intention to undergo the procedure based on trust in the doctor.
+r044352,Botox injections,Specialised Services,will definitely make,positive,
+r044352,staff,Staff & Service,very attentive,positive,
+r044352,staff,Staff & Service,friendly,positive,
+r044352,clinic,Other,We go to the clinic with the whole family,positive,Continued family use implies satisfaction and trust.
+r044985,IMPLICIT,Specialised Services,Five minutes of shame,negative,The procedure is not explicitly named.
+r044985,results,Operational Experience,promised time,positive,
+r044985,results,Operational Experience,to your email,positive,
+r044985,doctor,Staff & Service,began to offer to take an HPV test for 3000,negative,Reviewer implies the initially suggested option was unnecessarily expensive.
+r044985,HPV test,Financial & Administrative,for 3000,negative,
+r044985,option,Financial & Administrative,much cheaper,positive,
+r044985,site,Infrastructure & Resources,good,positive,
+r044985,what is superfluous,Financial & Administrative,read everything and count in advance,negative,Implies some offered services may be unnecessary.
+r045145,group,Financial & Administrative,No group assigned,negative,Refers to refusal of disability-group recognition.
+r045145,Diclofenac,Clinical & Treatment,abdominal pain,negative,Adverse effect attributed to the medication.
+r045145,mobility,Financial & Administrative,worked against me,negative,Reviewer says apparent mobility was used as grounds for refusal.
+r045145,refusal,Financial & Administrative,main argument ... was this very mobility,negative,
+r045145,"doctor ""with a 30-year experience",Staff & Service,this possibility was not known,negative,
+r045145,difference in mobility,Staff & Service,not noticed,negative,
+r045145,dactylitis of the toes,Staff & Service,No one paid attention,negative,
+r045145,dactylitis of the toes,Clinical & Treatment,strong pain,negative,
+r045145,dactylitis of the toes,Clinical & Treatment,preventing walking,negative,
+r045145,dactylitis of the toes,Clinical & Treatment,do not allow wearing normal shoes,negative,
+r045145,commission,Staff & Service,they also don't know how to do it,negative,
+r045145,biochemistry and blood analysis,Clinical & Treatment,said nothing about inflammation,negative,The reviewer suggests abnormal findings were disregarded.
+r045145,temperature of 38,Clinical & Treatment,IMPLICIT,negative,Current severe symptom.
+r045145,walk,Clinical & Treatment,unable to walk without crutches,negative,
+r045145,assigning a group,Financial & Administrative,what would be the argument,negative,Expresses frustration with the decision criteria.
+r045346,location of the center near the metro station,Operational Experience,Wonderful,positive,
+r045346,reception only by appointment,Operational Experience,there were no queues,positive,
+r045346,price,Financial & Administrative,low,positive,
+r045346,staff,Staff & Service,responsive,positive,
+r045346,staff,Staff & Service,will always help and tell,positive,
+r045449,doctors,Staff & Service,satisfied,positive,
+r045449,sisters,Staff & Service,satisfied,positive,
+r045449,Feed,Infrastructure & Resources,could be more delicious,negative,
+r045449,sister,Staff & Service,will come,positive,
+r045449,sister,Staff & Service,do everything necessary,positive,
+r045449,sister,Staff & Service,explain,positive,
+r045449,give birth again,Specialised Services,I will come here,positive,Expresses intention to return for the same maternity service.
+r047675,this,Specialised Services,was the worst choice I've made,negative,"This"" refers to choosing this maternity hospital."
+r047675,gratitude,Financial & Administrative,started hinting,negative,Implied request for unofficial payment or gift.
+r047675,every subsequent action,Financial & Administrative,"accompanied by ""hints",negative,
+r047675,funds from the birth certificate,Financial & Administrative,there's nothing in the hospital,negative,
+r047675,IMPLICIT,Other,this chaos,negative,Overall institutional evaluation.
+r047675,painkillers,Clinical & Treatment,No painkillers were prescribed,negative,
+r047675,nurse,Staff & Service,always busy,negative,
+r047675,get the injection done,Operational Experience,run after the nurse,negative,
+r047675,Elena Nikolaevna,Staff & Service,remembered to treat the stitches,positive,
+r047675,nurse,Staff & Service,only one ... remembered to treat the stitches,negative,Implies inadequate care from the remaining nursing staff.
+r047675,pediatrician,Staff & Service,didn't even think it was necessary to come,negative,
+r047675,pediatrician,Staff & Service,didn't ... tell me about my child,negative,
+r047675,examination,Operational Experience,after a whole day,negative,
+r047675,Everything's fine,Staff & Service,IMPLICIT,negative,Dismissive response in context; aspect is the nurse's communication.
+r047675,clavicle,Clinical & Treatment,broken during birth,negative,
+r047675,child,Clinical & Treatment,cried constantly and didn't sleep,negative,
+r047675,child was finally examined,Operational Experience,"only after the mother's insistence, more than a day later",negative,
+r047675,pediatrician,Staff & Service,didn't he examine it immediately,negative,
+r047675,everyone,Staff & Service,run after everyone to make them do their job,negative,
+r047675,delivery room,Infrastructure & Resources,presence of a child,negative,
+r047675,corridor,Infrastructure & Resources,running around ... making noise,negative,
+r047675,cries,Infrastructure & Resources,couldn't rest properly,negative,
+r047675,cafeteria,Infrastructure & Resources,something strange,negative,
+r047675,meals,Operational Experience,only served in the cafeteria,negative,
+r047675,eat,Operational Experience,standing up,negative,
+r047675,mother,Operational Experience,remains hungry,negative,
+r047675,food,Infrastructure & Resources,terrible,negative,
+r047675,food,Infrastructure & Resources,an insult to breastfeeding mothers,negative,
+r047675,meat in the diet,Infrastructure & Resources,barely any,negative,
+r047675,potatoes in the soup,Infrastructure & Resources,once in three days,negative,
+r047675,olive oil,Infrastructure & Resources,instead ... olive margarine,negative,
+r047675,someone,Staff & Service,constantly scolding,negative,
+r047675,someone,Staff & Service,reprimanding you,negative,
+r047675,you,Staff & Service,always obliged to someone for something,negative,
+r047675,single room,Infrastructure & Resources,will please you very much,positive,Positive but conditional evaluation.
+r047675,staying with the child,Specialised Services,will please you very much,positive,Positive but conditional evaluation.
+r047675,no one bothers you,Staff & Service,will please you very much,positive,Positive but possibly ironic/conditional.
+r048211,tests,Specialised Services,countless,negative,
+r048211,went to the maternity hospital,Operational Experience,immediately turned away,negative,
+r048211,Olga Vladimirovna,Staff & Service,categorical,negative,
+r048211,ultrasound and CTG,Specialised Services,excellent condition,positive,
+r048211,Olga Vladimirovna,Staff & Service,obvious displeasure,negative,
+r048211,Olga Vladimirovna,Staff & Service,sharply rebuked us,negative,
+r048211,places,Infrastructure & Resources,no places,negative,
+r048211,reception room,Operational Experience,waiting ... for three hours,negative,
+r048211,free births,Financial & Administrative,almost like an anachronism,negative,
+r048211,any doctor,Staff & Service,no one came,negative,
+r048211,pain relief,Clinical & Treatment,"you're not allowed, endure it",negative,
+r048211,doctors,Staff & Service,played hide and seek,negative,
+r048211,doctors,Staff & Service,appeared rarely,negative,
+r048211,doctors,Staff & Service,mostly remained silent,negative,
+r048211,sent to the labor ward,Operational Experience,finally,negative,"Finally"" indicates an unreasonable delay."
+r048211,they,Staff & Service,left,negative,Refers to staff leaving the patient unattended.
+r048211,drip,Clinical & Treatment,forgotten for three hours,negative,
+r048211,nurse,Staff & Service,finally came,negative,"Finally"" indicates delayed assistance."
+r048211,CTG,Clinical & Treatment,forgot again,negative,
+r048211,cesarean,Clinical & Treatment,strictly refused,negative,Negative in context because surgery was later considered urgently necessary.
+r048211,delay the birth,Clinical & Treatment,dangerous,negative,
+r048211,doctor,Staff & Service,a separate thank you,positive,
+r048211,doctor,Staff & Service,understood that it was dangerous to delay the birth,positive,
+r048211,help my wife give birth,Clinical & Treatment,doing nothing,negative,
+r048211,surgery,Specialised Services,Everything went well,positive,
+r048211,wards,Infrastructure & Resources,"large, beautiful",positive,Describes wards provided to paying patients.
+r048211,doctor,Staff & Service,attached,positive,Describes the service provided to paying patients.
+r048211,nurse,Staff & Service,running at the first call,positive,Describes the service provided to paying patients.
+r048211,ward,Infrastructure & Resources,"the most ordinary ""Soviet",negative,
+r048211,duty doctor,Staff & Service,comes occasionally,negative,
+r048211,nurses,Staff & Service,rude,negative,
+r048211,Go get it yourself,Staff & Service,after surgery,negative,Request for water was handled dismissively.
+r048211,extra food,Infrastructure & Resources,a 50-gram bottle in the evening,negative,
+r048211,feed as you can,Staff & Service,IMPLICIT,negative,Inadequate assistance with infant feeding.
+r048211,taught how to feed,Staff & Service,"if there are problems, come as you like",negative,
+r048211,discharged,Operational Experience,with great pleasure,negative,Sarcastic wording implying eagerness to remove the patient.
+r048211,paying patients,Financial & Administrative,waiting for new paying patients,negative,
+r048211,IMPLICIT,Specialised Services,sad and unpleasant,negative,Overall evaluation of the maternity-hospital experience.
+r048211,doctors and nurses,Staff & Service,"happy to ""lick"" them",negative,Reviewer alleges preferential treatment; offensive wording retained verbatim as required.
+r049309,doctor Marietta Mikhailovna,Staff & Service,HUGE gratitude,positive,
+r049309,midwife Vera Vasilyevna,Staff & Service,HUGE gratitude,positive,
+r049309,doctor Marietta Mikhailovna,Staff & Service,Wonderful,positive,Opinion applies jointly to the doctor and midwife.
+r049309,midwife Vera Vasilyevna,Staff & Service,Wonderful,positive,Opinion applies jointly to the doctor and midwife.
+r049309,doctor Marietta Mikhailovna,Staff & Service,great professionals,positive,Opinion applies jointly to the doctor and midwife.
+r049309,midwife Vera Vasilyevna,Staff & Service,great professionals,positive,Opinion applies jointly to the doctor and midwife.
+r049309,childbirth,Specialised Services,the most wonderful memories,positive,
+r049309,Vera Vasilyevna,Staff & Service,was nearby,positive,
+r049309,Vera Vasilyevna,Staff & Service,massaged her back,positive,
+r049309,vertical childbirth,Specialised Services,the process goes quickly,positive,
+r049654,conditions of the urology department,Infrastructure & Resources,not satisfied,negative,
+r049654,nurses,Staff & Service,treat their work carelessly,negative,
+r049688,blood donation,Specialised Services,quality,positive,
+r049688,friendly dresser,Staff & Service,friendly,positive,
+r049688,bahills,Financial & Administrative,free,positive,
+r049816,trauma doctor,Staff & Service,great gratitude,positive,
+r049816,work done,Clinical & Treatment,"fast, high-quality and professional",positive,
+r049816,nurse,Staff & Service,hamlo,negative,
+r049816,nurse,Staff & Service,can not work with people,negative,
+r052322,gastric resection operation,Clinical & Treatment,complicated by postoperative pancreatitis,negative,Long review; abbreviated here for readability.
+r052322,bile duct injury,Clinical & Treatment,unacceptable,negative,
+r052322,treatment,Clinical & Treatment,irreversible processes threatening his life,negative,
+r052322,constant pain,Clinical & Treatment,constant pain,negative,
+r052322,ICU condition,Infrastructure & Resources,condition was neglected,negative,
+r052322,decubitus ulcers,Infrastructure & Resources,development of decubitus ulcers,negative,
+r052322,ICU staff,Staff & Service,complaints were dismissed,negative,
+r052322,coordination between ICU staff and surgeons,Operational Experience,lack of coordination,negative,
+r052322,on-call doctors,Staff & Service,sleep / arrive late,negative,
+r052322,weekend rounds,Operational Experience,infrequent,negative,
+r052322,patient management,Clinical & Treatment,shortcomings increased toxicity,negative,
+r053237,Prokopenko Olga Arkadievna,Staff & Service,express my gratitude,positive,
+r053237,Khazov Igor Vladislavovich,Staff & Service,express my gratitude,positive,
+r053237,surgery to remove a giant uterine fibroids,Specialised Services,successfully performed,positive,
+r054203,called a doctor at home,Operational Experience,no one came to me,negative,
+r054203,registry,Staff & Service,roughly answer the phone,negative,
+r054203,registry,Staff & Service,rough communication,negative,
+r054212,Firsov Mikhail Ivanovich,Staff & Service,high professionalism,positive,
+r054212,treated me,Clinical & Treatment,took me from the world,positive,
+r054212,Kucheryavaya Marina Vladimirovna,Staff & Service,treated me with gratitude,positive,
+r056998,diagnosed after examination,Clinical & Treatment,rotavirus infection,neutral,
+r056998,four ambulance calls,Operational Experience,four ambulance calls,negative,
+r056998,sent home,Operational Experience,sent home,negative,
+r057937,junior medical staff,Staff & Service,mostly good,positive,
+r057937,Olga Nikolaevna,Staff & Service,wonderful nurse,positive,
+r057937,head of the department Lyudmila Alekseevna,Staff & Service,"You are not alone here, you do not forcibly hold anyone",negative,
+r060098,staff of shock resuscitation,Staff & Service,express my gratitude,positive,
+r060098,Shabanov Aslan Kurbanovich,Staff & Service,Many thanks,positive,
+r060098,Kosolapov Denis Alexandrovich,Staff & Service,Many thanks,positive,
+r060364,sat in the reception area for 2 hours,Operational Experience,2 hours,negative,
+r060364,medical staff,Staff & Service,barrage of abuse,negative,
+r060364,medical staff,Staff & Service,called a spoiled woman,negative,
+r060364,man in operating room,Staff & Service,making comments about me,negative,
+r060364,ward,Infrastructure & Resources,freezing cold,negative,
+r060364,unconscious in the corridor,Operational Experience,unconscious in the corridor for 10 minutes,negative,
+r060364,medical staff,Staff & Service,no one had checked on me,negative,
+r060364,canteen staff,Staff & Service,were rude,negative,
+r060364,canteen,Operational Experience,no cups,negative,
+r062178,surgeon,Operational Experience,sends to the hospital,negative,Part of a referral loop preventing care.
+r062178,head of the department,Operational Experience,pedals back to the surgeon,negative,
+r062178,without money,Financial & Administrative,Who needs us,negative,Reviewer alleges lack of care because of inability or unwillingness to pay.
+r062671,doctors,Staff & Service,don't care about curing cancer,negative,
+r062671,make money on it,Financial & Administrative,make money on it,negative,
+r062671,place,Financial & Administrative,corrupt,negative,
+r063058,staff on duty,Staff & Service,thank,positive,
+r063058,foreign body in the cornea,Clinical & Treatment,found a foreign body,neutral,
+r063198,make an appointment with a doctor,Operational Experience,simply unrealistic,negative,
+r063198,get to a therapist,Operational Experience,wait a month,negative,
+r063198,get to the right specialist,Operational Experience,another month,negative,
+r063198,therapist,Operational Experience,will give you a direction in 1 minute,negative,Refers to a very brief referral encounter after a long wait.
+r063198,IMPLICIT,Operational Experience,What nonsense,negative,Overall evaluation of the appointment process.
+r063198,chief doctor,Staff & Service,always not at work,negative,
+r063198,organization,Operational Experience,there is no organization,negative,
+r063198,registry,Staff & Service,Hamdom,negative,Likely mistranslation indicating rude or boorish conduct.
+r063198,head,Staff & Service,rudeness,negative,
+r063198,This medical unit,Clinical & Treatment,does not cure,negative,
+r063198,professionalism,Staff & Service,tries to finish you off,negative,Sarcastic criticism of staff competence.
+r063530,nothing,Other,nothing had changed there,negative,Overall criticism of the institution based on past experience and current comments.
+r063530,got there,Operational Experience,accidentally,negative,
+r063530,I was dragged there,Staff & Service,IMPLICIT,negative,Implies coercive or rough handling.
+r063530,there,Other,not even possible to compare with prison,negative,Strong negative overall comparison of the institution.
+r063687,queues,Operational Experience,IMPLICIT,negative,Listed as part of the reviewer's negative impression.
+r063687,prices,Financial & Administrative,high,negative,
+r063687,football,Operational Experience,IMPLICIT,negative,Likely refers to being repeatedly passed between doctors or departments.
+r063687,A doctor will send one doctor to the department,Operational Experience,IMPLICIT,negative,Meaning is unclear due to translation; appears to describe referral between providers.
+r063687,comprehensive examination,Specialised Services,IMPLICIT,neutral,The examination itself is mentioned factually.
+r063687,examination,Financial & Administrative,pay 7000,negative,
+r063687,the same,Financial & Administrative,costs 5600,negative,Comparison indicates the examination is more expensive than at Helmholtz.
+r063687,queue for recording,Operational Experience,spend an hour and a half,negative,
+r063687,wait,Operational Experience,wait for 2 months,negative,
+r063687,queue,Operational Experience,half a day,negative,
+r064062,conditions,Infrastructure & Resources,unexpectedly good,positive,
+r064062,staff,Staff & Service,polite and attentive,positive,
+r064062,Zhivotov Vladimir Anatolyevich,Staff & Service,attitude and professionalism,positive,
+r064062,Yankin Pavel Lvovich,Staff & Service,attitude and professionalism,positive,
+r064062,seam,Clinical & Treatment,neat and almost not noticeable,positive,
+r064062,Kazantsev Anton Sergeevich,Staff & Service,thank you,positive,
+r064522,2nd maternity hospital,Specialised Services,Good memories,positive,
+r064522,maternity hospital-32,Specialised Services,disgusting,negative,
+r064522,staff,Staff & Service,disgusting,negative,
+r065156,Dmitry Alexandrovich Blinov,Staff & Service,highly qualified,positive,
+r065156,Dmitry Alexandrovich Blinov,Staff & Service,you need to turn to,positive,Strong recommendation of the doctor.
+r065156,blepharoplasty,Specialised Services,There were no painful sensations at all,positive,
+r065156,operation,Specialised Services,under local anesthesia,neutral,Factual description without a separate clear evaluation.
+r065156,doctor,Staff & Service,carefully,positive,
+r065156,doctor,Staff & Service,clearly,positive,
+r065156,bruises,Clinical & Treatment,did not even have,positive,Positive postoperative outcome.
+r065156,operation,Specialised Services,I smiled,positive,Indicates comfort during the procedure.
+r065624,Olga Anatolievna,Staff & Service,has been following my skin for a long time,positive,Continued long-term care indicates trust and satisfaction.
+r065624,shortcomings from the skin,Clinical & Treatment,removed all,positive,
+r065624,papillomas,Clinical & Treatment,removed,positive,
+r065624,scars,Clinical & Treatment,removed,positive,
+r065624,look,Clinical & Treatment,much younger,positive,
+r065624,look,Clinical & Treatment,more well-groomed,positive,
+r065624,Olga Anatolievna,Staff & Service,very glad that I was sent to her,positive,
+r065698,surgical department,Staff & Service,very grateful,positive,
+r065698,Viktor Ivanovich,Staff & Service,warm attitude and understanding,positive,
+r065698,Viktor Ivanovich,Staff & Service,kind and sympathetic,positive,
+r065698,Viktor Ivanovich,Staff & Service,professionalism,positive,
+r065698,helping people and saving our lives,Clinical & Treatment,saving our lives,positive,
+r066384,let me in,Operational Experience,did not let me in at all,negative,
+r067341,operation,Specialised Services,quick and successful,positive,
+r067341,I felt,Clinical & Treatment,I felt great,positive,
+r068035,Clinic,Infrastructure & Resources,cozy,positive,
+r068035,interior,Infrastructure & Resources,pleasant,positive,
+r068035,atmosphere,Infrastructure & Resources,warm,positive,
+r068035,atmosphere,Infrastructure & Resources,almost homely,positive,
+r068035,Medical staff,Staff & Service,attentive,positive,
+r068035,Medical staff,Staff & Service,polite,positive,
+r068035,Medical staff,Staff & Service,operational,positive,
+r068035,Medical staff,Staff & Service,with a smile on their face,positive,
+r068035,Medical staff,Staff & Service,thank you all,positive,
+r068425,ultrasound,Specialised Services,very pleased,positive,
+r068425,Grigoryants E. R.,Staff & Service,very pleased,positive,
+r068425,doctor,Staff & Service,told everything,positive,
+r068425,doctor,Staff & Service,showed on the screen,positive,
+r068425,doctor,Staff & Service,offered his wet wipes,positive,
+r068425,wet wipes,Infrastructure & Resources,offered,positive,
+r068425,sheets and napkins,Infrastructure & Resources,there is everything,positive,Refers to amenities available in paid/DMS settings.
+r068425,next ultrasound,Specialised Services,I will come,positive,Expresses intention to return.
+r068750,Talmasov,Staff & Service,man of mood,negative,
+r068750,Talmasov,Staff & Service,jokes,positive,
+r068750,Talmasov,Staff & Service,shouts,negative,
+r068750,Child sisters,Staff & Service,good,positive,
+r068750,doctor,Staff & Service,good,positive,
+r068750,Child sisters,Staff & Service,how to give a baby a breast will prompt,positive,
+r068750,doctor,Staff & Service,how to give a baby a breast will prompt,positive,
+r068750,children,Staff & Service,well looked after,positive,
+r068750,they will treat you,Staff & Service,how you behave,neutral,Conditional statement rather than a clearly positive or negative evaluation.
+r069054,child died in the womb,Clinical & Treatment,IMPLICIT,negative,
+r069054,doctors,Staff & Service,you have to give birth,negative,Reviewer presents the response as insensitive.
+r069054,No caesarean,Clinical & Treatment,IMPLICIT,negative,Reviewer criticises the refusal to perform a caesarean.
+r069054,give birth to a dead child,Specialised Services,forced me,negative,
+r069054,attitude towards people,Staff & Service,what is this attitude,negative,
+r069978,get to the day hospital,Operational Experience,wait 2-3 months,negative,
+r069978,hospital,Operational Experience,does not work at full strength,negative,
+r069978,hospital,Operational Experience,only half a day,negative,
+r069978,they,Staff & Service,do not want to take the second m / s,negative,Likely refers to refusal to hire or assign a second nurse; translation is unclear.
+r069978,sick grandparents,Operational Experience,wait,negative,
+r069978,hospital,Other,better not to come at all,negative,
+r069978,head doctor,Staff & Service,will be calmer and more economical,negative,Sarcastic criticism implying that patient access is restricted to save resources.
+r070396,Zakharova Tatiana Nikolaevna,Staff & Service,thank,positive,
+r070396,Zakharova Tatiana Nikolaevna,Staff & Service,qualified help,positive,
+r070396,treatment of mycoplasmosis,Clinical & Treatment,illiterate,negative,Refers to prior treatment received in another city.
+r070396,doctor,Staff & Service,took a close look,positive,
+r070396,doctor,Staff & Service,got acquainted with the already conducted examination,positive,
+r070396,doctor,Staff & Service,examined,positive,
+r070396,doctor,Staff & Service,consulted in detail,positive,
+r070396,prescribed treatment,Clinical & Treatment,quickly gave a positive result,positive,
+r070396,registry staff,Staff & Service,scold,negative,Reports others' criticism rather than a firm personal judgement.
+r070396,registry staff,Staff & Service,they are not always the same people,neutral,Reviewer qualifies the criticism and suggests variability among staff.

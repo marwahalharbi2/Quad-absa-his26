@@ -1,0 +1,12 @@
+aspect_theme,lda_topics
+Staff attitude / care / professionalism,"T7, T16, T18, T26"
+Dental,"T3, T4, T24"
+Maternity & childbirth,"T21, T22, T29"
+Gynecology / antenatal / ultrasound,"T5, T10, T14, T17, T30"
+Cost / payment / insurance,"T2, T4, T6, T23, T25"
+Waiting times / queues,"T3, T9, T16, T30"
+Registration / admin / referrals,"T8, T12, T27"
+Surgery / operations,"T7, T11, T22, T26"
+Diagnosis / treatment / prescriptions,"T13, T28"
+Equipment / service quality,T20
+Pharmacy / dermatology / other,"T15, T25"
