@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below and this software archive."
+title: "Code and Data for \"Large Language Models for Quadruple Aspect-Based Sentiment Analysis in Health-Oriented Hospitality Reviews\" (HIS 2026)"
+type: software
+version: v1.0.0
+license: CC-BY-4.0
+repository-code: "https://github.com/marwahalharbi2/Quad-absa-his26"
+authors:
+  - family-names: Alharbi
+    given-names: Marwah
+    affiliation: Victoria University
+    orcid: "https://orcid.org/0009-0008-6614-7730"
+preferred-citation:
+  type: conference-paper
+  title: "Large Language Models for Quadruple Aspect-Based Sentiment Analysis in Health-Oriented Hospitality Reviews"
+  authors:
+    - family-names: Alharbi
+      given-names: Marwah
+    - family-names: Alharbi
+      given-names: Majid
+    - family-names: Yin
+      given-names: Jiao
+    - family-names: Wang
+      given-names: Hua
+  collection-title: "International Conference on Health Information Science (HIS 2026)"
+  year: 2026
