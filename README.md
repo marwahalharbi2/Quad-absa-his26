@@ -6,6 +6,9 @@ Code, data, and the annotation protocol for the paper:
 > Marwah Alharbi, Majid Alharbi, Jiao Yin, Lili Sun — HIS 2026.
 > Springer LNCS 17294, https://doi.org/10.1007/978-981-92-7708-7_12
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23680928.svg)](https://doi.org/10.5281/zenodo.23680928)
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23680928
+
 A modular pipeline that turns raw, multilingual healthcare-facility reviews into
 fine-grained, decision-relevant insight via **Quadruple Aspect-Based Sentiment
 Analysis (Quad-ABSA)** — decomposing each review into *(aspect term, aspect
@@ -98,6 +101,12 @@ These are **user-generated reviews** that may mention individuals; rights to the
 underlying text remain with the original authors and the source dataset (no
 separate license is asserted over the review text). Please use responsibly and
 cite the source dataset below.
+Source review URLs are not included.
+
+## License
+
+CC BY 4.0 (see [`LICENSE`](LICENSE)) for the code, translations and annotations.
+The review text is covered by the data note above.
 
 ## Citation
 

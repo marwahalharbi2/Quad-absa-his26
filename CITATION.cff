@@ -21,7 +21,12 @@ preferred-citation:
       given-names: Majid
     - family-names: Yin
       given-names: Jiao
-    - family-names: Wang
-      given-names: Hua
-  collection-title: "International Conference on Health Information Science (HIS 2026)"
-  year: 2026
+    - family-names: Sun
+      given-names: Lili
+  collection-title: "Health Information Science (HIS 2026)"
+  collection-type: proceedings
+  publisher:
+    name: Springer
+  volume: 17294
+  year: 2027
+  doi: 10.1007/978-981-92-7708-7_12

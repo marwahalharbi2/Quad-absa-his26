@@ -15,7 +15,7 @@ LLM quad extraction → **Stage 3** (F1 + SAFE) evaluation *(not built yet)*.
 ### `translations_opus1000_hybrid.csv`
 The clean translated corpus: **1,000** reviews (999 clean, 1 still flagged).
 Hybrid MT: 941 via OPUS-MT-tc-big + 59 long reviews re-translated with Mistral-Nemo.
-**Columns:** `review_id, review_id_src, sentiment, source_url, title, facility_type,
+**Columns:** `review_id, review_id_src, sentiment, title, facility_type,
 facility_type_en, original_russian, english_translated, translation_tool,
 repetition_flag, quality_score, quality_score_raw, en_ru_len_ratio, truncated_flag`.
 `en_ru_len_ratio` = English/Russian char-length ratio; `truncated_flag` = ratio < 0.65
