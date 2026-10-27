@@ -3,7 +3,8 @@
 Code, data, and the annotation protocol for the paper:
 
 > **Large Language Models for Quadruple Aspect-Based Sentiment Analysis in Health-Oriented Hospitality Reviews**
-> Marwah Alharbi, Majid Alharbi, Jiao Yin, Hua Wang — HIS 2026.
+> Marwah Alharbi, Majid Alharbi, Jiao Yin, Lili Sun — HIS 2026.
+> Springer LNCS 17294, https://doi.org/10.1007/978-981-92-7708-7_12
 
 A modular pipeline that turns raw, multilingual healthcare-facility reviews into
 fine-grained, decision-relevant insight via **Quadruple Aspect-Based Sentiment
@@ -98,15 +99,19 @@ underlying text remain with the original authors and the source dataset (no
 separate license is asserted over the review text). Please use responsibly and
 cite the source dataset below.
 
-## Citation (Will   be updated)
+## Citation
 
 ```bibtex
 @inproceedings{alharbi2026quadabsa,
-  author    = {Alharbi, Marwah and Alharbi, Majid and Yin, Jiao and Wang, Hua},
+  author    = {Alharbi, Marwah and Alharbi, Majid and Yin, Jiao and Sun, Lili},
   title     = {Large Language Models for Quadruple Aspect-Based Sentiment
                Analysis in Health-Oriented Hospitality Reviews},
-  booktitle = {Health Information Science (HIS)},
-  year      = {2026}
+  booktitle = {Health Information Science (HIS 2026)},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {17294},
+  publisher = {Springer},
+  year      = {2027},
+  doi       = {10.1007/978-981-92-7708-7_12}
 }
 ```
 
