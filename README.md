@@ -20,7 +20,7 @@ Evaluation). No fine-tuning.
 ## Headline result
 
 Exact-match F1 drastically under-reports extraction quality; SAFE reveals a
-~4–8× higher score. On the 50-review human gold (95% CIs from a review-level
+~3–8× higher score. On the 50-review human gold (95% CIs from a review-level
 cluster bootstrap, B=5,000):
 
 | Model | Exact-F1 | SAFE-F1 [95% CI] | mean-SAFE | Precision | Recall |
