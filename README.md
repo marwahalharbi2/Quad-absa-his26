@@ -122,6 +122,14 @@ The review text is covered by the data note above.
   year      = {2027},
   doi       = {10.1007/978-981-92-7708-7_12}
 }
+@software{alharbi2026quadabsahis26code,
+  author    = {Alharbi, Marwah},
+  title     = {Code and Data for ``Large Language Models for Quadruple Aspect-Based Sentiment Analysis in Health-Oriented Hospitality Reviews'' (HIS 2026)},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23680928}
+}
+
 ```
 
 Source dataset: Blinov, P. *Dataset of Russian reviews about medical facilities*
