@@ -46,6 +46,8 @@ dataset-dependent preprocessing; Stages 1–4 are the core pipeline. Validation
 
 The written annotation protocol — a domain-general contribution — is
 [`docs/annotation_guidelines.md`](docs/annotation_guidelines.md).
+The taxonomy derivation (LDA topics → themes → categories) is in
+[`docs/taxonomy_derivation.md`](docs/taxonomy_derivation.md).
 
 ## Repository layout
 
@@ -54,7 +56,7 @@ stages/        pipeline scripts (translate, annotate-clean, extract, evaluate)
 analysis/      LDA aspect discovery
 config.py      all tunable parameters
 data/output/   translations, annotations, extracted quadruples, eval set
-docs/          annotation guidelines (the released protocol)
+docs/          annotation guidelines (the released protocol), taxonomy derivation
 ```
 
 Evaluation outputs (`reports/`) are **generated** by running the Stage 2 scripts;
