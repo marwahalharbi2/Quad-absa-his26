@@ -3,6 +3,7 @@ message: "If you use this code or data, please cite the paper below and this sof
 title: "Code and Data for \"Large Language Models for Quadruple Aspect-Based Sentiment Analysis in Health-Oriented Hospitality Reviews\" (HIS 2026)"
 type: software
 version: v1.0.0
+doi: 10.5281/zenodo.23680928
 license: CC-BY-4.0
 repository-code: "https://github.com/marwahalharbi2/Quad-absa-his26"
 authors:
