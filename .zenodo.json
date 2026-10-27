@@ -1,0 +1,13 @@
+{
+  "title": "Code and Data for \"Large Language Models for Quadruple Aspect-Based Sentiment Analysis in Health-Oriented Hospitality Reviews\" (HIS 2026)",
+  "upload_type": "software",
+  "description": "<p>Code and data for: M. Alharbi, M. Alharbi, J. Yin, and H. Wang, \"Large Language Models for Quadruple Aspect-Based Sentiment Analysis in Health-Oriented Hospitality Reviews,\" International Conference on Health Information Science (HIS 2026).</p><p>A modular pipeline that extracts quadruples (aspect term, aspect category, opinion term, sentiment) from healthcare-facility reviews and benchmarks off-the-shelf large language models, without fine-tuning, against a human-annotated gold standard.</p><p><b>Contents.</b> A sentiment-stratified sample of 1,000 reviews and a 200-review top-up pool drawn from the public blinoff/healthcare_facilities_reviews dataset (70,597 Russian-language reviews); English translations; human annotations; extracted quadruples; pipeline stages and analysis scripts.</p><p><b>Data note.</b> The review text belongs to its original authors and the source dataset. It is included only for research reproducibility, and no separate licence is asserted over it. The CC BY 4.0 licence covers the code, translations and annotations.</p>",
+  "creators": [
+    {"name": "Alharbi, Marwah", "affiliation": "Victoria University", "orcid": "0009-0008-6614-7730"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["aspect-based sentiment analysis", "Quad-ABSA", "large language models", "healthcare reviews", "health-oriented hospitality", "reproducibility"],
+  "related_identifiers": [
+    {"identifier": "https://huggingface.co/datasets/blinoff/healthcare_facilities_reviews", "relation": "isDerivedFrom", "resource_type": "dataset", "scheme": "url"}
+  ]
+}
